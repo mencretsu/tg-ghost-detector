@@ -14,13 +14,13 @@ Telegram bot using **Telethon** to detect and remove ghost (deleted) accounts fr
 3. Run: ```python detector.py```
 
 ## 📖 Commands
-/start → Show bot info (private only).
+```/start``` → Show bot info (private only).
 
-/scanmembers → Scan group for ghost accounts.
+```/scanmembers``` → Scan group for ghost accounts.
 
 Button → Remove ghost accounts.
 
 ## ⚠️ Notes
 Bot must be admin with Ban Members permission.
 
-Only group admins can run /scanmembers.
+Only group admins can run ```/scanmembers```
